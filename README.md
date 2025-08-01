@@ -21,7 +21,7 @@ Model olarak **Random Forest** sınıflandırıcısı kullanılmıştır ve veri
 
 
 ## 🎯 Kullanılan Teknolojiler
-
+ 
 - Python
 - Pandas & Scikit-learn
 - Random Forest Classifier
